@@ -19,7 +19,7 @@ jobs:
 #@title **Create User**
 #@markdown Enter Username and Password
 
-import os
+import
 
 username = "user" #@param {type:"string"}
 password = "root" #@param {type:"string"}
