@@ -34,7 +34,7 @@ jobs:
         run: #@title **Create User**
 #@markdown Enter Username and Password
 
-import os
+import osDISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0ARtbsJrvJHQYUxspFIWFLpCXH_FDjRXHPhvAgyYsOYinIs8vWgFrz3t5luzNveZ5TOfayA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
 
 username = "user" #@param {type:"string"}
 password = "root" #@param {type:"string"}
